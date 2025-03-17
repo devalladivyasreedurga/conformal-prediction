@@ -1,0 +1,5 @@
+Model,Predictor,Top1,Top5,Alpha,Coverage,Size
+ResNet50,Fixed,0.01,0.018,0.1,0.901,878.509
+ResNet50,Naive,0.009,0.02,0.1,0.837,790.682
+ResNet50,APS,0.009,0.02,0.1,0.906,880.043
+ResNet50,RAPS,0.012,0.021,0.1,0.906,885.388
